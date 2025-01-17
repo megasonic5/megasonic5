@@ -1,0 +1,3 @@
+- 👋 Hola, soy @megasonic5.
+- 👀 Estoy interesado en programación.
+- 🌱 Estoy aprendiendo C.
