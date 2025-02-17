@@ -16,6 +16,6 @@ typedef struct {
 } T_cubo_rubik;
 
 T_cubo_rubik *crearCubo();
-void eliminarCubo(T_cubo_rubik cubo);
+void eliminarCubo(T_cubo_rubik *cubo);
 
 #endif
